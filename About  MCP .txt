@@ -52,7 +52,7 @@ ________________________________________
 •	Automate testing and deployment with GitHub Actions
 ________________________________________
 
-7. Who Should Take This Course
+7. Who Should Take This 
 
 •	AI engineers building context-aware and autonomous systems
 •	Data scientists and ML developers exploring Agentic AI architectures
@@ -74,11 +74,7 @@ ________________________________________
 •	Python, OpenAI, Anthropic, Mistral
 •	Vector Databases FAISS Chroma Pinecone
 •	Docker GitHub Actions VS Code
-________________________________________
 
-10. About the Instructor
-
-Ratnesh has over 4+ years of experience in data analytics and AI and more than 3+ years of teaching experience in Machine Learning Deep Learning NLP and Generative AI. Known for his practical and hands-on teaching style he has trained millions of learners worldwide in real-world AI applications.
 ________________________________________
 
 Prerequisites
@@ -89,7 +85,7 @@ Prerequisites
 •	A computer with internet access to install required tools
 ________________________________________
 
-By the End of This Course You Will
+By the End of This  You Will
 
 •	Understand MCP and its role in building context-aware AI systems
 •	Connect LLMs with tools APIs and real-world data
@@ -113,6 +109,7 @@ Section 11 Project Real Time Job Recommendation System
 Section 12 Project StoryForge Agent
 Section 13 Project Clinisight AI
 Section 14 Build Agent with Google Development Kit ADK
+
 
 
 
