@@ -1,3 +1,13 @@
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,12,6&height=220&text=AGENTIC%20AI%20AND%20GEN%20AI%20AGENTS%20WITH%20MCP&fontSize=55&fontColor=ffffff&animation=fadeIn" width="100%"/>
+</div>
+
+
+---
+
 # Build Agentic AI and Gen AI Agents with MCP
 
 - Model Context Protocol (MCP) Bootcamp offers a deep dive into MCP architecture and its role in the Agentic AI ecosystem. Learn to build real-world, production-ready AI workflows using MCP with LangChain, LangGraph, and CrewAI through fully practical, project-based implementations.
