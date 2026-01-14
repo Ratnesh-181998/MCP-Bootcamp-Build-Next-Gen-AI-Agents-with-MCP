@@ -2,7 +2,7 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&text=AGENTIC%20AI%20%26%20GEN%20AI%20AGENTS&fontSize=46&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&text=AGENTIC%20AI%20%26%20GEN%20AI%20AGENTS&fontSize=44&fontColor=ffffff" />
 </div>
 
 ---
