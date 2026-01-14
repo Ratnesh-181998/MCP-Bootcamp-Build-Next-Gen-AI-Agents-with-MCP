@@ -2,9 +2,8 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,12,6&height=220&text=AGENTIC%20AI%20AND%20GEN%20AI%20AGENTS%20WITH%20MCP&fontSize=55&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,12,6&height=260&text=AGENTIC%20AI%20AND%20GEN%20AI%20AGENTS%20WITH%20MCP&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </div>
-
 
 ---
 
