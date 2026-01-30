@@ -14,7 +14,7 @@
 
 ---
 
-# 10 Python AI libraries
+# 10 Python  AI/ML libraries
 
 - 🔢 **NumPy** 👉 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) [🌐Official Website](https://numpy.org/) [📘 Documentation](https://numpy.org/doc/)
 
